@@ -129,7 +129,7 @@ This game is more than just a project; it's a testament to our teamwork, perseve
 ## 🚀 How to Run
 ### 📌 Compile the code using a C++ compiler:
 
-g++ snake_game.cpp -o snake_game
+g++ tetris_game.cpp -o tetris_game
 
 ## 🔮 Future Enhancements
 ✅ Adding high score tracking and persistence 🏆  
